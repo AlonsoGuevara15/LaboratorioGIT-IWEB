@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 NILTON FERNANDO CONDORI QUISPE
+=======
+Alonso S Guevara H
+>>>>>>> origin/template
